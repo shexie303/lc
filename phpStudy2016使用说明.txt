@@ -1,7 +1,6 @@
 ﻿phpStudy 2016.01.01
 『软件简介』
-    该程序包集成最新的Apache+Nginx+LightTPD+PHP+MySQL+phpMyAdmin+Zend Optimizer+Zend Loader，一次性安装，无须配置即可使用，是非常方便、好用的PHP调试环境。该程序绿色小巧简易迷你仅有35M，有专门的控制面板。总之学习PHP只需一个包。
-　　对学习PHP的新手来说，WINDOWS下环境配置是一件很困难的事；对老手来说也是一件烦琐的事。因此无论你是新手还是老手，该程序包都是一个不错的选择。
+    该程序包集成最新的Apache+Nginx+LightTPD事；对老手来说也是一件烦琐的事。因此无论你是新手还是老手，该程序包都是一个不错的选择。
 1、全面适合 Win2000/XP/2003/win7/win8/win2008 操作系统 ,支持Apache、IIS、Nginx和LightTPD。
 2、该程序包集成以下软件，括号内为phpstudy下对应的目录。
    php 7.0.1   (php70n)
